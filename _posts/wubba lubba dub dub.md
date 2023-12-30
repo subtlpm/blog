@@ -7,3 +7,6 @@ math: true
 comments: false
 # https://chirpy.cotes.page/posts/write-a-new-post/ (Really helpful)
 ---
+
+## Just Testing
+You know Rick and Morty used to very good back then. Now it sucks.
